@@ -3,7 +3,7 @@ layout: post
 title: How to Measure Quality in Machine Learning Models
 date: Tutorial
 description: Learn how to apply the standard methods for calculating training data quality - benchmarks (aka gold standard), consensus, and review - to your datasets. # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+img: jellyfish.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Tutorial]
 ---
