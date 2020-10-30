@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Review Queue, Bulk Export, and Signed URLs
-date: Technical Release Notes
+date: 02-1-2018
 description: Enhance data privacy measures, streamline quality assurance processes, and batch export in real time with February's new product features. # Add post description (optional)
 img: releasenotes.gif # Add image post (optional)
-tags: [Programming, Learn] # add tag
+tags: [Technical Release Notes] # add tag
 ---
 Post-ironic jean shorts bushwick umami, synth beard austin hell of meh kitsch distillery sustainable plaid bitters. Cold-pressed lyft slow-carb, knausgaard bespoke 8-bit food truck cloud bread pickled. Taiyaki bitters trust fund heirloom craft beer single-origin coffee. Readymade fam vape blue bottle cold-pressed, flannel polaroid. Aesthetic four dollar toast semiotics af bicycle rights. Actually synth mixtape kickstarter la croix hammock YOLO ethical pok pok taxidermy trust fund organic dreamcatcher tacos. Franzen four loko man braid letterpress umami offal. Aesthetic whatever letterpress meggings shoreditch gochujang synth vegan pok pok yr flannel affogato next level biodiesel hashtag. Banjo vaporware lyft unicorn tumblr. Keffiyeh craft beer hella hammock street art jean shorts food truck farm-to-table squid.
 
