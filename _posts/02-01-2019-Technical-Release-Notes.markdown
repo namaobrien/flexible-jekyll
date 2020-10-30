@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Review Queue, Bulk Export, and Signed URLs
-date: 02-01-2018
+date: 02-01-2019
 description: Enhance data privacy measures, streamline quality assurance processes, and batch export in real time with February's new product features. # Add post description (optional)
 img: releasenotes.gif # Add image post (optional)
 tags: [Technical Release Notes] # add tag
