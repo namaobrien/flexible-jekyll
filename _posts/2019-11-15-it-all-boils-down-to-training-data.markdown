@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It All Boils Down to the Training Data
-date: 2017-09-12 00:00:00 +0300
+date: 2019-11-15
 description: Instead of getting marginal improvements in performance by searching for state-of-the-art models, drastically improve your model’s accuracy by improving the quality of your data. # Add post description (optional)
 img: trainingdata.gif # Add image post (optional)
 fig-caption: # Add figcaption (optional)
