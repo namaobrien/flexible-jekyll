@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Model Predictions
-date: Deep Dive
+date: 2018-12-15
 description: Discover how model predictions can be used to accelerate labeling speed and improve the accuracy of production models. # Add post description (optional)
 img: modelpredictions.png # Add image post (optional)
 tags: [Deep Dive] # add tag
