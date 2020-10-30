@@ -11,9 +11,9 @@ author: Nechama O'Brien # add your name
 author-img: profile.jpg # add your photo
 about-author: I am a Technical Writer with experience in SaaS and big data products. # add description
 social-twitter: # add your Twitter handle
-social-facebook: https://www.facebook.com/nechama.obrien/ # add your Facebook handle
-social-github: https://github.com/namaobrien # add your Github handle
-social-linkedin: https://www.linkedin.com/in/nechamaobrien/ # add your Linkedin handle
+social-facebook: nechama.obrien # add your Facebook handle
+social-github: namaobrien # add your Github handle
+social-linkedin: nechamaobrien # add your Linkedin handle
 social-email: obrien.nama@gmail.com # add your Email address
 
 # Disqus
