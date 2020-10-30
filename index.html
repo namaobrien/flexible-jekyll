@@ -1,15 +1,21 @@
 ---
 layout: main
 ---
-{% for post in paginator.posts %} #for each post
-<article class="post"> #creating class
-  {% if post.img %} #image put thumbnail
+{% for post in paginator.posts %} <!-- for each post -->
+<article class="post"> <!-- creating class -->
+  {% if post.img %} <!-- image put thumbnail -->
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
-  {% else %} #else nothing
+  {% else %} <!-- else nothing --
   {% endif %} 
-  <div class="post-content"> #post content
-    <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2> #if URL add tprepend the site and then add the post title
-    <p>{{ post.content | strip_html | truncatewords: 15 }}</p> #add the content then strip HTML tags and truncate length to 15 words
+  <div class="post-content"> <!-- post content -->
+    <h2 class="post-title">
+      {% if post.external_url %}
+        <a href="{{post.external_url}}">{{post.title}}</a> <!-- if URL add tprepend the site and then add the post title -->
+      {% else %}
+        <a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a> <!-- if URL add tprepend the site and then add the post title -->
+      {% endif %}
+    </h2>
+    <p>{{ post.content | strip_html | truncatewords: 15 }}</p> <!-- add the content then strip HTML tags and truncate length to 15 words -->
 </article>
 {% endfor %}
 
