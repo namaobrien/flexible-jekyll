@@ -1,7 +1,9 @@
 ---
 layout: main
 ---
-{% for post in paginator.posts %} <!-- for each post -->
+{% assign sorted_posts = site.posts | sort: 'date' | reverse | sort: 'weight' %}
+{% for post in sorted_posts %} <!-- for each post -->
+{% assign post_weight = post.weight | default: -1 %} <!-- posts with no weight will be shown first by default -->
 <article class="post"> <!-- creating class -->
   {% if post.img %} <!-- image put thumbnail -->
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>

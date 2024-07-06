@@ -6,6 +6,7 @@ description: Accelerate labeling speed and improve the accuracy of production mo
 img: modelpredictions.png # Add image post (optional)
 tags: [Labelbox] # add tag
 external_url: https://labelbox.com/blog/model-predictions-semi-automatic-labeling-and-quality-assurance-in-production/
+weight: 1
 ---
 
 Accelerate labeling speed and improve the accuracy of production models with model predictions.

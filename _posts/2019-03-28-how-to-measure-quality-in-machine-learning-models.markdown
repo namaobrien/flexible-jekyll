@@ -7,5 +7,6 @@ img: jellyfish.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Labelbox]
 external_url: https://labelbox.com/blog/how-to-measure-quality-when-training-machine-learning-models/
+weight: 1
 ---
 Apply benchmarks (aka gold standard), consensus, and review to ensure the qualitly of your training data.

@@ -7,5 +7,6 @@ img: Causality.FlowChart.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Upwave]
 external_url: https://www.upwave.com/blog/a-costly-ad-measurement-mistake-and-how-to-avoid-it/
+weight: 1.5
 ---
 Digital ad measurement partners may be unintentionally measuring pre-existing differences rather than ad impact.
